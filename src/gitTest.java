@@ -4,7 +4,10 @@ public class gitTest {
         //String gitVersion="1.23";
         //String gitVersion="1.24";
         String gitVersion = "1.26";
+        String userName="zhuqiang-git";
         System.out.println(gitVersion);
+        System.out.println(userName);
+
     }
 
 }
