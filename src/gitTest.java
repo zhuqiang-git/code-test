@@ -9,6 +9,7 @@ public class gitTest {
         String userEmail="16562083@qq.com";
         System.out.println(gitVersion);
         System.out.println(userName);
+        System.out.println(userEmail);
 
     }
 
