@@ -10,6 +10,7 @@ public class gitTest {
         System.out.println(gitVersion);
         System.out.println(userName);
         System.out.println(userEmail);
+        System.out.println(userEmail);
 
     }
 
